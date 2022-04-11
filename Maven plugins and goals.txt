@@ -1,0 +1,21 @@
+Maven Plugins:-Maven plugins is a collection of one or more goals
+
+Example
+
+Generate Goal :- archetype:generate
+Install Goal :- install:install
+
+Goal:- Goal can be a specific task which we usually run independently or it can be a part of a bigger build
+
+Some types of Goals are :-
+
+Compile :- If we use it independently it compiles our java classes or tests it can also be a part of a bigger build where we compile our 
+source code or tests
+
+Test:- Test goals which will run our tests which is from the surefire plugins
+
+Package:- Package will package our compiled classes if the test pass into the jar files or if it's a web application it package it into a
+war file
+
+
+

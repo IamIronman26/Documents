@@ -1,0 +1,12 @@
+use maven in addition to its convention over configuration maven offers several other
+advantages such as a common interface for the developers before maven if we as developers had to work on an open source project or even another project within our company or enterprise we had first understand how to build that project because each team might have
+their own way of configuring the build
+
+when they use other tools other than maven which is both time consuming and hectic that is where maven simplifies
+things by simply grabbing the project from the source control we can execute maven clean install and the project will be built for us because all the
+developers now will follow one standard project structure which is specified by maven secondly maven is not just a build management tool it can also manage
+dependencies that is if our project
+
+depends on other projects from within the organization or even in the open source world maven can grab those
+projects download those dependencies and it will use them to compile our source code run the test and even bundle these
+dependencies into war files and EAR files.
